@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Drawer02</string>
+    <string name="profile">Profile</string>
+    <string name="notification">Notification</string>
+    <string name="collection">Collection</string>
+    <string name="inbox">Inbox</string>
+    <string name="orders">Orders</string>
+    <string name="others">Others</string>
+    <string name="settings">Settings</string>
+    <string name="support">Support</string>
+    <string name="about">About</string>
+    <string name="harish">Harish</string>
+    <string name="verified">Verified</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
